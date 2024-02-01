@@ -181,12 +181,6 @@
     justify-content:center;
     align-items:center;
 }
-.section2 iframe{
-    width:90%;
-    height:90%;
-    justify-content:center;
-    align-items:center;
-}
 .section3{
     display:flex;
     flex:none;
