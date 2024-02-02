@@ -150,6 +150,7 @@
 }
 .section1{
     display:flex;
+    border-radius: 25px;
     flex:none;
     width:45%;
     height:400px;
@@ -171,6 +172,7 @@
     align-items:center;
 }
 .section2{
+    border-radius: 25px;
     display:flex;
     flex:none;
     width:45%;
@@ -181,6 +183,7 @@
     align-items:center;
 }
 .section3{
+    border-radius: 25px;
     display:flex;
     flex:none;
     width:45%;
@@ -191,6 +194,7 @@
     align-items:center;
 }
 .section4{
+    border-radius: 25px;
     display:flex;
     flex:none;
     width:45%;
