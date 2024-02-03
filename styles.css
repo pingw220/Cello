@@ -3,7 +3,7 @@
 }
 .headline {
     display: grid;
-    grid-template-columns: 46% 26% 28%;
+    grid-template-columns: 46% 24% 28%;
     background-image: url(resource/cello_cover.jpg);
     background-size: cover;
     height: 550px;
